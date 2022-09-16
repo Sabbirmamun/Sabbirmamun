@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Sabbir Al Mamun
-- 👀 I’m interested in SQA and Cyber sequrity.
+- 👀 I’m interested in SQA and Cyber security.
 - 🌱 I’m currently learning SQA Automation Testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email : shaktirahman960@gmail.com
+                      Phone : 01771887647
 - 
 
 <!---
